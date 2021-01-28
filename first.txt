@@ -2,3 +2,5 @@
 基本的なワークフローについて学びます。
 git add
 git command
+asa
+
